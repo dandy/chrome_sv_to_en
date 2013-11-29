@@ -1,0 +1,1 @@
+A Google Chrome extension that translates any selected word on webpage from Swedish to English.
